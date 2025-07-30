@@ -41,16 +41,8 @@ This project explores patterns in screen time behavior among Indian children age
 
 - Microsoft Excel (Pivot Tables, Formulas)
 
-## ✅ How to Use
 
-Clone the repository and open the Excel file to:
-- Explore the pivot reports in `Sheet1`
-- Review raw data in `Indian_Kids_Screen_Time` sheet
-- Generate visualizations (optional) using Python
 
-## 📃 License
-
-This project is intended for educational and research purposes. Feel free to fork and build upon it.
 
 ---
 
