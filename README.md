@@ -40,8 +40,6 @@ This project explores patterns in screen time behavior among Indian children age
 ## 🧠 Tools Used
 
 - Microsoft Excel (Pivot Tables, Formulas)
-- Python (Pandas, Matplotlib – optional for further visualization)
-- Jupyter Notebook (for future visualization expansion)
 
 ## ✅ How to Use
 
